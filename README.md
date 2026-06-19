@@ -1,13 +1,3 @@
-## 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github" />
-</p>
-
-<p align="center">
-<b>Pandas</b> • <b>NumPy</b> • <b>Matplotlib</b> • <b>Seaborn</b> • <b>Scikit-learn</b> • <b>Streamlit</b>
-</p>
-
 <h1 align="center">🤖 Data Science & Machine Learning Portfolio</h1>
 
 <p align="center">
@@ -172,18 +162,12 @@ Built multiple machine learning models to predict outcomes across different data
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,git,github" />
 </p>
 
----
+<p align="center">
+<b>Pandas</b> • <b>NumPy</b> • <b>Matplotlib</b> • <b>Seaborn</b> • <b>Scikit-learn</b> • <b>Streamlit</b>
+</p>
 
 ## 💡 Skills Demonstrated
 
@@ -196,7 +180,25 @@ Built multiple machine learning models to predict outcomes across different data
   <img src="https://img.shields.io/badge/Model_Evaluation-2EA043?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Dashboard_Development-FF4B4B?style=for-the-badge" />
 </p>
+## 💡 Skills Demonstrated
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Exploratory_Data_Analysis-2D3748?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Data_Cleaning-2D3748?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Feature_Engineering-2D3748?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Statistical_Analysis-2D3748?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Data_Visualization-2D3748?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Model_Evaluation-2D3748?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Dashboard_Development-2D3748?style=flat-square"/>
+
+</p>
 ---
 
 ## 📈 Project Snapshot
