@@ -172,17 +172,6 @@ Built multiple machine learning models to predict outcomes across different data
 ## 💡 Skills Demonstrated
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EDA-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Cleaning-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Feature_Engineering-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Statistical_Analysis-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Visualization-FF7A59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model_Evaluation-2EA043?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dashboard_Development-FF4B4B?style=for-the-badge" />
-</p>
-## 💡 Skills Demonstrated
-
-<p align="center">
 
 <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-2D3748?style=flat-square"/>
 
@@ -199,6 +188,7 @@ Built multiple machine learning models to predict outcomes across different data
 <img src="https://img.shields.io/badge/Dashboard_Development-2D3748?style=flat-square"/>
 
 </p>
+
 ---
 
 ## 📈 Project Snapshot
