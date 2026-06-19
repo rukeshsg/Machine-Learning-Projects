@@ -172,12 +172,10 @@ Built multiple machine learning models to predict outcomes across different data
 * Strong foundation for supervised learning concepts
 
 **Repository**
-
 <p align="center">
 
 <a href="https://github.com/rukeshsg/Predictive-Modeling-Using-Machine-Learning">
-<img src="https://img.shields.io/badge/GitHub-Explore_Repository-181717?style=for-the-badge&logo=github&logoColor=white/>
-  
+<img src="https://img.shields.io/badge/GitHub-Explore_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -207,6 +205,7 @@ Built multiple machine learning models to predict outcomes across different data
 </p>
 
 ---
+
 
 ## 📁 Repository Structure
 
