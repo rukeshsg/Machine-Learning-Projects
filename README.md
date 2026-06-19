@@ -60,13 +60,17 @@ Performed Exploratory Data Analysis (EDA) on FIFA player data to identify key fa
 * `./images/outliers/market_value_outliers.png`
 * `./images/correlations/correlation_heatmap.png`
 
-**Live Demo**
+<p align="center">
 
-* [https://eda-fifa-player-market-value-analysis-kc5bv9c83zlj97ymnfmzai.streamlit.app/](https://eda-fifa-player-market-value-analysis-kc5bv9c83zlj97ymnfmzai.streamlit.app/)
+<a href="LIVE_DEMO">
+<img src="https://img.shields.io/badge/Streamlit-Live_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit"/>
+</a>
 
-**Repository**
+<a href="REPO">
+<img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
-* [https://github.com/rukeshsg/EDA-FIFA-Player-Market-Value-Analysis](https://github.com/rukeshsg/EDA-FIFA-Player-Market-Value-Analysis)
+</p>
 
 ---
 
@@ -220,4 +224,4 @@ This repository is designed to present my work in a polished, easy-to-review for
 
 ## 📄 License
 
-This portfolio repository is licensed under the Apache 2.0 License.
+This portfolio repository is licensed under the MIT License.
