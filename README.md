@@ -18,7 +18,7 @@ A curated portfolio showcasing my journey in <b>Machine Learning</b>, <b>Data Sc
   <img src="https://img.shields.io/badge/Language-Python-yellow?style=flat-square"/>
 </p>
 
-# 📌 About This Repository
+## 📌 About This Repository
 
 This repository serves as the central portfolio for my Machine Learning and Data Science projects. It brings together multiple independent repositories into one organized showcase, allowing recruiters, developers, and collaborators to quickly explore my work.
 
@@ -26,7 +26,7 @@ The projects demonstrate the complete machine learning workflow—from data acqu
 
 Rather than combining all source code into a single project, each project is maintained in its own dedicated repository with complete documentation, while this portfolio provides a structured overview and quick access to every project.
 
-# 🛠 Technologies & Tools
+## 🛠 Technologies & Tools
 
 <p align="center">
 
@@ -34,7 +34,7 @@ Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn • Stre
 
 </p>
 
-# 📊 Portfolio Highlights
+## 📊 Portfolio Highlights
 
 | Metric | Value |
 |---------|------:|
@@ -44,34 +44,6 @@ Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn • Stre
 | Languages | Python |
 | Libraries | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
 | Deployment | Streamlit |
-
-# 🤖 Machine Learning Projects Portfolio
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-Portfolio-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-EDA-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Visualization-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
-
-<p align="center">
-  A curated collection of Machine Learning, Data Analysis, and Data Visualization projects showcasing Exploratory Data Analysis (EDA), data cleaning, statistical insights, predictive modeling, and interactive dashboards built with Python.
-</p>
-
-<p align="center">
-  <a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-3-2EA043?style=for-the-badge" /></a>
-  <a href="#tech-stack"><img src="https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=for-the-badge" /></a>
-  <a href="#featured-projects"><img src="https://img.shields.io/badge/Dashboards-2-FF4B4B?style=for-the-badge" /></a>
-  <a href="#featured-projects"><img src="https://img.shields.io/badge/ML%20Models-6%2B-F59E0B?style=for-the-badge" /></a>
-</p>
-
----
-
-## 📌 Portfolio Overview
-
-This repository serves as a central showcase for my Machine Learning and Data Science work. It highlights complete project workflows, from data cleaning and Exploratory Data Analysis (EDA) to visualization, model building, evaluation, and dashboard deployment.
-
-Each project is maintained in its own repository, while this portfolio brings everything together in one clean, recruiter-friendly view.
 
 ---
 
@@ -166,6 +138,7 @@ Focused on data cleaning, preprocessing, and visualization using the Superstore 
 </a>
 
 </p>
+
 ---
 
 ### 3) 🤖 Predictive Modeling Using Machine Learning
@@ -208,6 +181,7 @@ Built multiple machine learning models to predict outcomes across different data
 </a>
 
 </p>
+
 ---
 
 ## 📊 Project Snapshot
