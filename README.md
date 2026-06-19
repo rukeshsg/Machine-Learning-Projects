@@ -1,5 +1,5 @@
 # 🤖 Machine Learning Projects Portfolio
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/> <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/> <img src="https://img.shields.io/badge/EDA-success?style=flat-square"/> </p> <p align="center"> <a href="LIVE_DEMO"> <img src="https://img.shields.io/badge/🚀_Live_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> </a> <a href="REPO"> <img src="https://img.shields.io/badge/📂_View_Source-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science-Portfolio-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
