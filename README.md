@@ -1,3 +1,13 @@
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,git,github" />
+</p>
+
+<p align="center">
+<b>Pandas</b> • <b>NumPy</b> • <b>Matplotlib</b> • <b>Seaborn</b> • <b>Scikit-learn</b> • <b>Streamlit</b>
+</p>
+
 <h1 align="center">🤖 Data Science & Machine Learning Portfolio</h1>
 
 <p align="center">
