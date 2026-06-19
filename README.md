@@ -1,4 +1,4 @@
-# 🤖 Data Science & Machine Learning Portfolio
+<h1 align="center">🤖 Data Science & Machine Learning Portfolio</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -56,7 +56,7 @@ The projects in this portfolio cover the full workflow of a data project: data c
 ### 1) ⚽ FIFA Player Market Value Analysis
 
 <p align="center">
-  <img src="./images/dashboard/dashborad_app_page.png" width="92%" alt="FIFA Player Market Value Analysis dashboard preview"/>
+  <img src="./images/dashboard/dashborad_app_page.png" width="75%" alt="FIFA Player Market Value Analysis dashboard preview"/>
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ Performed exploratory data analysis on FIFA player data to identify the factors 
 ### 2) 🛒 Superstore Data Cleaning & Visualization
 
 <p align="center">
-  <img src="./images/superstore-dashboard.png" width="92%" alt="Superstore dashboard preview"/>
+  <img src="./images/superstore-dashboard.png" width="75%" alt="Superstore dashboard preview"/>
 </p>
 
 <p align="center">
